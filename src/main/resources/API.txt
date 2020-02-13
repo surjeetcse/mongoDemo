@@ -1,0 +1,12 @@
+
+
+http://localhost:3000/api/run
+
+save POST: http://localhost:3000/api/mongoData?id=15&name=ssss
+
+fetch GET: http://localhost:3000/api/mongoData?id=12
+
+Update PUT: http://localhost:3000/api/mongoData?newName=surjeet&oldName=kumar
+
+Delete DELETE: http://localhost:3000/api/mongoData?id=12
+
